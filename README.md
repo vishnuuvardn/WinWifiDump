@@ -7,27 +7,41 @@ Note⚠️: This script is only for personal and educational use. Do not use it 
 
 
 File Details:
+
 Script name: wifidump.py
+
 Repository name: WinWifiDump
+
 Created by: Vishnuuu
 
 What This Script Does:
+
 Finds all Wi-Fi names (SSIDs) saved on your PC
+
 Shows the password for each (if available)
+
 Skips open Wi-Fi networks (no password)
+
 Works only on Windows
 
 
 Requirements:
+
 Python 3
+
 Windows operating system
+
 pyfiglet library for the banner
+
 To install pyfiglet, open Command Prompt and type:
+
 pip install pyfiglet
 
 
 How To Use It:
+
 Open Command Prompt as Administrator
+
 Go to the folder where wifidump.py is saved
 
 Run the script by typing:
