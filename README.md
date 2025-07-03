@@ -31,4 +31,5 @@ Open Command Prompt as Administrator
 Go to the folder where wifidump.py is saved
 
 Run the script by typing:
+
 python wifidump.py
