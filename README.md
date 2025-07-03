@@ -37,7 +37,7 @@ To install `pyfiglet`, run this in Command Prompt:
 1. Open **Command Prompt as Administrator**
 2. Go to the folder where `wifidump.py` is saved
 3. Run the script by typing:
-4. python wifidump.py
+4. `python wifidump.py`
 
 --------------------------------------------
 
@@ -46,9 +46,6 @@ This tool is for learning and recovering your own passwords only.
 **Never use it on other people’s computers** or networks without permission. That may be illegal.
 
 --------------------------------------------------
-
-🖥️ Sample Output:
-
 
 
 
