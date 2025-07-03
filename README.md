@@ -1,37 +1,54 @@
-WinWifiDump
+WinWifiDump 🔐
+==========================
+
+WinWifiDump is a small Python script that helps you view all the Wi-Fi networks saved on your **Windows** computer — along with their passwords (if available).
+
+⚠️ This script is for **personal and educational use only**.  
+Do not use it on devices that you don’t own or don’t have permission to access!
+
+--------------------------------------------
+
+📄 File Information:
+- Script name: `wifidump.py`
+- Repository name: `WinWifiDump`
+- Created by: Vishnuuu
+
+--------------------------------------------
+
+✅ What This Script Does:
+- Finds all saved Wi-Fi names (SSIDs)
+- Shows the password for each (if available)
+- Skips networks that don’t have passwords
+- Works only on **Windows**
+
+--------------------------------------------
+
+🧰 Requirements:
+- Python 3 installed
+- Windows operating system
+- `pyfiglet` library (for the cool banner)
+
+To install `pyfiglet`, run this in Command Prompt:
+- pip install pyfiglet
+
+--------------------------------------------
+
+▶️ How To Use It:
+1. Open **Command Prompt as Administrator**
+2. Go to the folder where `wifidump.py` is saved
+3. Run the script by typing:
+4. python wifidump.py
+
+--------------------------------------------
+
+🔒 Use Responsibly:
+This tool is for learning and recovering your own passwords only.  
+**Never use it on other people’s computers** or networks without permission. That may be illegal.
+
+--------------------------------------------------
+
+🖥️ Sample Output:
 
 
-WinWifiDump.py is a small Python program that shows all the Wi-Fi networks saved on your Windows computer along with their passwords.
-
-⚠️Note: This script is only for personal and educational use. Do not use it on someone else’s computer without permission!
 
 
-
-File Details:
-Script name: wifidump.py
-Repository name: WinWifiDump
-Created by: Vishnuuu
-
-
-What This Script Does:
-Finds all Wi-Fi names (SSIDs) saved on your PC
-Shows the password for each (if available)
-Skips open Wi-Fi networks (no password)
-Works only on Windows
-
-
-
-Requirements:
-Python 3
-Windows operating system
-pyfiglet library for the banner
-To install pyfiglet, open Command Prompt and type:
-pip install pyfiglet
-
-
-
-How To Use It:
-Open Command Prompt as Administrator
-Go to the folder where wifidump.py is saved
-Run the script by typing:
-python wifidump.py
