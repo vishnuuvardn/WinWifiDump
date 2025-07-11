@@ -26,10 +26,6 @@ Do not use it on devices that you don’t own or don’t have permission to acce
 🧰 Requirements:
 - Python 3 installed
 - Windows operating system
-- `pyfiglet` library (for the cool banner)
-
-To install `pyfiglet`, run this in Command Prompt:
-- pip install pyfiglet
 
 --------------------------------------------
 
