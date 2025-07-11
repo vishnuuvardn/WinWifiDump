@@ -40,5 +40,5 @@ except Exception as e:
     
     
 for wifi in wifi_list:
-    result = f"Wifi: {wifi['ssid']}\nPassword: {wifi['password']}\n"
+    result = f"\nWifi: {wifi['ssid']}\nPassword: {wifi['password']}\n"
     print(result)
