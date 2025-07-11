@@ -2,10 +2,6 @@ import subprocess
 import re
 import platform
 import sys
-import pyfiglet
-
-banner = pyfiglet.figlet_format("WinWifi Dump")
-print(banner, "                                                              --Vishnuuu")
 
 if platform.system() != "Windows":
     print("This script only works on Windows!")
